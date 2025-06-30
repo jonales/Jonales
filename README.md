@@ -15,6 +15,9 @@ Meu nome é Jônatas Meireles e sou desenvolvedor apaixonado por tecnologia e in
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PrimeFaces](https://img.shields.io/badge/PrimeFaces-1BA0E2?style=for-the-badge&logo=primefaces&logoColor=white)
+![PrimeFlex](https://img.shields.io/badge/PrimeFlex-2196F3?style=for-the-badge&logo=primeflex&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-007396?style=for-the-badge&logo=maven&logoColor=white)
 
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
