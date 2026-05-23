@@ -1,35 +1,41 @@
-# Olá! 👋
-Meu nome é Jônatas Meireles e sou desenvolvedor apaixonado por tecnologia e inovação.
+# Olá! 👋 Eu sou Jônatas Meireles
 
-- 🔧 Trabalho com [tecnologias que você usa]
-- 📫 Contato: jonatas.tec.br
+Desenvolvedor apaixonado por tecnologia e inovação.
+
+- 🔧 Trabalho com Java, Web e Banco de Dados
+- 📫 Contato: [jonatas.tec.br](https://jonatas.tec.br)
 - 💬 Me siga no Twitter: [@Jonatas_mei](https://twitter.com/Jonatas_mei)
 
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonales&layout=compact&theme=tokyonight)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Banco de Dados
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libs
 ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-1BA0E2?style=for-the-badge&logo=primefaces&logoColor=white)
 ![PrimeFlex](https://img.shields.io/badge/PrimeFlex-2196F3?style=for-the-badge&logo=primeflex&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-007396?style=for-the-badge&logo=maven&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-0095D5?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+### IDEs & Ferramentas
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-0095D5?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
+## 📊 Estatísticas GitHub
 
+<div align="center">
 
-<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonales&show_icons=true&theme=tokyonight) -->
-<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) -->
-<!--![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) -->
-<!-- ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonales&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800)](https://github.com/Jonales)
 
+</div>
