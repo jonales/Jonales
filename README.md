@@ -36,6 +36,6 @@ Desenvolvedor apaixonado por tecnologia e inovação.
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonales&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800)](https://github.com/Jonales)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jonales&layout=compact&theme=tokyonight)](https://github.com/Jonales)
 
 </div>
